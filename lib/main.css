@@ -1,0 +1,62 @@
+body {
+    background-color: #8db4ad;
+}
+
+header {
+    background-color: #ecae7d;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+header h1 {
+    color: #026c80;
+}
+
+.navbar-nav .nav-link {
+    text-align: center;
+}
+
+.navbar-nav .nav-link.active {
+    color: #fff;
+    background-color: #026c80;
+}
+
+.nav-link {
+    color: #026c80;
+}
+
+.carousel-item {
+    max-height: 714px;
+}
+
+.nav.nav-tabs .active{
+    background-color: #ecae7d;
+    border-color: #ecae7d;
+}
+
+.nav.nav-tabs .nav-link{
+    color: #000;
+}
+
+.nav.nav-tabs .nav-link:hover {
+    border-color: #ecae7d;
+}
+
+.nav.nav-tabs {
+    border-bottom: 1px solid #ecae7d;
+}
+
+textarea {
+    height: 105px;
+    resize: none;
+}
+
+footer {
+    height: 25px;
+}
+
+#inicio {
+    padding-top: 1px;
+}
